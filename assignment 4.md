@@ -6,19 +6,33 @@
 
 ### Questions:
 
-* Which agency issued the most parking violations in September 2021? 
+1. Which agency issued the most parking violations in September 2021? 
 
--Answer-
+Answer: Department of Public Works
 
-* Which type of parking violation was the most common? 
+2. Which type of parking violation was the most common? 
 
--Answer-
+Answer: 
 
-* Which day in September saw the most parking violations? 
+3. Which day in September saw the most parking violations? 
 
--Answer-
+Answer:
 
 ### Steps for cleaning and analyzing the data:
+
+Question 1:
+
+1. Press Command+a to highlight the entire data set
+2. Go to the "Insert" tab and select "Pivot Table," inserting the pivot table into a new worksheet
+3. Drag the "ISSUING_AGENCY_NAME" into the "Rows" and "Values" boxes
+4. Highlight all the rows containing numbers in the "Count of ISSUING_AGENCY_NAME" column
+5. Go to the "Data" tab and press "Sort"
+6. Find the agency with the greatest number
+
+Question 2:
+
+1. Press Command+a to highlight the entire data set
+2. Go to the "Insert" tab and select "Pivot Table," inserting the pivot table into a new worksheet
 
 ### Sample Headline and Nut Graf:
 

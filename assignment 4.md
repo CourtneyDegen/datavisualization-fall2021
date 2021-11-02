@@ -47,10 +47,8 @@ Question 3:
 5. Go to the "Data" tab and press "Sort"
 6. Find the date with the greatest count
 
-
-
 ### Sample Headline and Nut Graf:
 
-Headline:
+Headline: Data Shows DC Parking Violations Issued Most Toward the End of the Month
 
-Nut Graf: 
+Nut Graf: In an analysis of all D.C. parking violations from the month of September, the date with the most number of parking violations was Sept. 29. The next dates with the most number of DC parking violations were Sept. 22, 28 and 23. This reflects a potential pattern in which law enforcement tends to issue the most parking violations at the end of the month, leaving the question as to why that is. 

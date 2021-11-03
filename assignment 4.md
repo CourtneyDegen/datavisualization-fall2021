@@ -2,7 +2,10 @@
 
 ## By Courtney Degen
 
-### [Link to the original dataset]()
+### [Link to the original dataset](https://github.com/CourtneyDegen/datavisualization-fall2021/blob/main/Parking_Violations_Issued_in_September_2021.csv)
+### [Link to question 1 worksheet](https://github.com/CourtneyDegen/datavisualization-fall2021/blob/main/Question%201.csv)
+### [Link to question 2 worksheet](https://github.com/CourtneyDegen/datavisualization-fall2021/blob/main/Question%202.csv)
+### [Link to question 3 worksheet](https://github.com/CourtneyDegen/datavisualization-fall2021/blob/main/Question%203.csv)
 
 ### Questions:
 
@@ -19,6 +22,12 @@ Answer: Failure to Display Current Tags **Note, there are many parking violation
 Answer: September 29
 
 ### Steps for cleaning and analyzing the data:
+
+Cleaning:
+1. Delete "VEHICLE_TYPE" column, which is completely blank
+2. Delete all "Penalty" columns, which are completely blank
+3. Highlight the "ISSUE_DATE" column, go to the data tab and press "Text to Columns"
+4. Click "Next," Check "Space," Click "Next," and Click "Finish" (This separates the date and time)
 
 Question 1:
 

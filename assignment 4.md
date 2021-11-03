@@ -2,7 +2,7 @@
 
 ## By Courtney Degen
 
-### [Link to the dataset](https://opendata.dc.gov/datasets/parking-violations-issued-in-september-2021/explore)
+### [Link to the original dataset]()
 
 ### Questions:
 
@@ -12,7 +12,7 @@ Answer: Department of Public Works
 
 2. Which type of parking violation was the most common? 
 
-Answer: Failure to Display Current Tags
+Answer: Failure to Display Current Tags **Note, there are many parking violations that are missing data for this, so this may be slightly inaccurate*
 
 3. Which day in September saw the most parking violations? 
 
